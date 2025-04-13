@@ -22,5 +22,9 @@ This project is a **client-side product listing page** developed as part of a ta
 
 ---
 
-## 📂 Folder Structure
+## 🔗 Live Demo
+
+Check out the live version of the project here:  
+👉 [Hosted Product Listing Page](https://versai-tech-solutions-three.vercel.app/)
+
 
